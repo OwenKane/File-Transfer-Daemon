@@ -1,0 +1,30 @@
+---------------------------New-Entry----------------------------
+Time : Fri May  5 10:10:05 2017
+File : /Users/owenkane/Desktop/Submission/server/Marketing/test.txt
+User : test
+----------------------------------------------------------------
+---------------------------New-Entry----------------------------
+Time : Fri May  5 10:10:07 2017
+File : /Users/owenkane/Desktop/Submission/server/Offers/test.txt
+User : user
+----------------------------------------------------------------
+---------------------------New-Entry----------------------------
+Time : Fri May  5 13:46:10 2017
+File : /Users/owenkane/Desktop/Submission/server/Marketing/test.txt
+User : test
+----------------------------------------------------------------
+---------------------------New-Entry----------------------------
+Time : Fri May  5 13:46:26 2017
+File : /Users/owenkane/Desktop/Submission/server/Promotions/
+User : user
+----------------------------------------------------------------
+---------------------------New-Entry----------------------------
+Time : Fri May  5 13:46:55 2017
+File : /Users/owenkane/Desktop/Submission/server/Offers/
+User : user
+----------------------------------------------------------------
+---------------------------New-Entry----------------------------
+Time : Fri May  5 13:47:28 2017
+File : /Users/owenkane/Desktop/Submission/server/Promotions/test2.txt
+User : user
+----------------------------------------------------------------

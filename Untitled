@@ -1,0 +1,2 @@
+CC=gcc
+objects = main.o timer.o locked.o log.o find_updated.o 
